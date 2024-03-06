@@ -1,0 +1,227 @@
+h1{
+    color: white;
+
+
+   
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.inline-block{
+    display: inline-block;
+}
+.topnav {
+    
+    overflow: hidden;
+    background-color: black;
+    color:white;
+    font-size: 12;
+    width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    float: right;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.heroImg{
+    height: 678px;
+    background-color: lightgray;
+    align-items: center;
+    
+}
+
+.content {
+    width: 512px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.button {
+
+        background-color: lightgray;
+        border: none;
+        color: blue;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 10px 150px;
+        cursor: pointer;
+        position: relative;
+       
+
+      
+      
+      }
+footer{
+    background-color: black;
+    color:white;
+    text-align: left; 
+    height: 173px;
+  
+    
+}
+
+
+. skill p {
+    color: white;
+    text-align: center;
+}
+.logoImg{
+    float: right;
+    display: inline-block;
+   
+
+    
+}
+.mySkills {
+    background-color: white;
+    height: 1050px;
+    width: 100%;  
+}
+.row {
+    display: flex;
+    width: 100%;
+}
+.skill img {
+    width: 420px;
+    height: 394px;
+    padding: 20%;
+}
+.mySkills h1 {
+    color: #000000;
+    text-align: center;
+    font-size: 40px;
+}
+.skill h2 {
+text-align: center;
+font-size: x-large;
+}
+
+.skill p {
+    width: 420px;
+    height: 770px;
+    padding: 10%;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 52px;
+    text-align: center;
+    color: #000000;
+ }
+
+.MyWork {
+    background-color: #e8e8e8;
+    width: 100%;
+    font-size: 40px;
+   
+
+}
+ .MyWork h1 {
+    color: #000000;
+    text-align: center;
+    padding: 4%;
+
+ }
+.work h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.work p {
+    color: #000000;
+    font-size: 30px;
+    padding: 10%;
+}
+a {
+    color: #000000;
+}
+
+.work1 {
+    padding: 5%;
+}
+.work2 {
+    padding: 5%;
+}
+
+.work3 {
+    padding: 10%;
+    text-align: centerxlatvi;
+}
+.Contact h1 {
+    width: 100%;
+height: 83px;
+color: white;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 83px;
+text-align: center;
+background-color: #515151;
+padding: 2%;
+}
+.Contact {
+    background-color: #e8e8e8;
+}
+.Contact p {
+    
+width: 1341px;
+
+left: 347px;
+top: 145px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 83px;
+text-align: center;
+
+color: #000000;
+
+}
+.Contact h2 {
+    text-align: center;
+    font-size: 40px;
+}
+/*
+.column1 {
+   
+    width: 33%;
+    padding: 10px;
+   
+    height: 300px;
+}
+.column2 {
+  
+    width: 33%;
+    padding: 10px;
+    height: 300px;
+}
+.column3 {
+    
+    width: 33%;
+    padding: 10px;
+    height: 300px;
+}
+
